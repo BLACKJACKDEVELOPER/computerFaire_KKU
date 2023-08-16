@@ -1,0 +1,22 @@
+[
+    {
+        "name": "JOHN",
+        "score": "45",
+        "grade": "F"
+    },
+    {
+        "name": "MANA",
+        "score": "80",
+        "grade": "A"
+    },
+    {
+        "name": "ZERTA",
+        "score": "80",
+        "grade": "A"
+    },
+    {
+        "name": "MIN",
+        "score": "65",
+        "grade": "C"
+    }
+]
